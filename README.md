@@ -1,1 +1,1 @@
-"# aws_ecs_cloudformation" 
+# aws_ecs_cloudformation
